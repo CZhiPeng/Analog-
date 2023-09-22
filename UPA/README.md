@@ -1,0 +1,7 @@
+UPA.m：输出波束增益
+UPA_antenna_change：波束增益和天线个数的关系
+math_hpbw_antenna：数学方法求解，波束宽度和天线数量的关系
+formula_hpbw_antenna:公式方法求解，波束宽度和天线数量的关系
+
+width_and_pointing_relationship：公式方法，波束宽度和波束指向的关系图像
+UPA_Polarization：极化分辨率和波束分辨率的关系图
